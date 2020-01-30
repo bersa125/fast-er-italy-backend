@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: MyString
+  hospital: MyString
+  entity: MyString
+  address: MyString
+  wait_vote: 1
+  struct_vote: 1
+  service_vote: 1
+  firebase_id: MyString
+  firebase_id_public: MyString
+
+two:
+  date: MyString
+  hospital: MyString
+  entity: MyString
+  address: MyString
+  wait_vote: 1
+  struct_vote: 1
+  service_vote: 1
+  firebase_id: MyString
+  firebase_id_public: MyString

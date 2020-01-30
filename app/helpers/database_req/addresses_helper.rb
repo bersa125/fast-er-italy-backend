@@ -1,0 +1,2 @@
+module DatabaseReq::AddressesHelper
+end

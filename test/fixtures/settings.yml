@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  results_shown: 1
+  tracking: false
+  entity_id: MyString
+  firebase_id: MyString
+
+two:
+  results_shown: 1
+  tracking: false
+  entity_id: MyString
+  firebase_id: MyString
